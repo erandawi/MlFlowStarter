@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/528103248536022461/1322502d97954fd0aa713d462420ae96/artifacts
+end_time: 1739074065221
+entry_point_name: ''
+experiment_id: '528103248536022461'
+lifecycle_stage: active
+run_id: 1322502d97954fd0aa713d462420ae96
+run_name: traveling-hog-806
+run_uuid: 1322502d97954fd0aa713d462420ae96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739074059200
+status: 3
+tags: []
+user_id: erand
